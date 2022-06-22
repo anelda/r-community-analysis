@@ -1,0 +1,124 @@
+Region,Type,Name,Size,Organisers,Past events,Status
+North America,RUG,Miami R User Group,191,5,4,Active
+North America,RUG,Tampa R Users Group,540,2,30,Inactive
+North America,RUG,R Meetup - Real Data Science USA,2407,10,130,Inactive
+North America,RUG,Waco R User Group,13,1,1,Inactive
+North America,RUG,SoCal R Users Group (SoCal RUG),1062,8,120,Active
+North America,RUG,Santa Barbara R Users Group,548,2,31,Active
+North America,RUG,Moffitt Cancer Center Bio-Data Club,97,2,12,Active
+North America,RUG,Bay Area useR Group (R Programming Language),6542,5,154,Inactive
+North America,RUG,The East Bay R Language Enthusiasts Group,1724,1,93,Inactive
+North America,RUG,A-State R User Group,46,1,3,Inactive
+North America,RUG,MiR Community,166,1,2,Inactive
+North America,RUG,IndyUseR Group,606,3,72,Inactive
+North America,RUG,Salt Lake City R Users Group,2156,3,42,Active
+North America,RUG,Eugene R Users,128,2,12,Inactive
+North America,RUG,Portland R User Group,1835,10,177,Active
+North America,RUG,Seattle useR Group (R Programming Language),2824,3,84,Inactive
+North America,RUG,Inland Northwest R User Group (INRUG),171,1,39,Active
+North America,RUG,CalgaryR,1370,9,47,Active
+North America,RUG,Edmonton R User Group - Yegrug,214,4,10,Active
+North America,RUG,Twin Cities R User Group (TCRUG),1933,1,73,Active
+North America,RUG,Omaha R Users Group,215,3,5,Inactive
+North America,RUG,Ann Arbor R User Group,784,2,69,Inactive
+North America,RUG,Cleveland R User Group,889,4,106,Active
+North America,RUG,New York City R/Bioconductor for Genomics,820,5,16,Inactive
+North America,RUG,South Coast MA UseR Group,144,5,22,Active
+North America,RUG,Boston R/Bioconductor for Genomics,829,5,21,Inactive
+North America,RUG,Greater Portland Data Scientists' Gathering,225,5,19,Inactive
+Africa,RUG,DakaR R User Group,283,3,8,Inactive
+Africa,RUG,Bamako Data Science,330,2,20,Inactive
+Africa,RUG,Abidjan R users Meetup,680,3,9,Inactive
+Africa,RUG,Lagos R User Group,930,3,11,Active
+Africa,RUG,University of Ibadan R Users Group (UI RUG),166,1,2,Inactive
+Africa,RUG,Vuna SDC,168,1,2,Inactive
+Africa,RUG,Bauchi R User Group (BauchiRUG),208,6,7,Active
+Africa,RUG,R User Group Kano,110,1,2,Active
+Africa,RUG,Tunis R User Group,383,4,12,Active
+Africa,RUG,Algiers R User Group,256,1,2,Active
+Africa,RUG,Botswana R Users,231,8,2,Active
+Africa,RUG,Johannesburg R User Group (R Programming Language),905,1,12,Inactive
+Africa,RUG,EswatiniUseR Group,73,5,6,Active
+North America,R Ladies,R-Ladies Ames,204,4,6,Inactive
+North America,R Ladies,R-Ladies Athens,11,1,0,Inactive
+North America,R Ladies,R-Ladies Atlanta,660,4,39,Active
+North America,R Ladies,R-Ladies Austin,1131,9,47,Active
+North America,R Ladies,R-Ladies Baltimore,254,10,14,Inactive
+North America,R Ladies,R-Ladies Boston,449,5,16,Active
+North America,R Ladies,R-Ladies Boulder,570,8,20,Active
+North America,R Ladies,R-Ladies Buffalo,638,5,32,Inactive
+North America,R Ladies,R-Ladies Calgary,102,6,5,Inactive
+North America,R Ladies,R-Ladies Charlottesville,487,5,11,Inactive
+North America,R Ladies,R-Ladies Chicago,620,6,27,Active
+North America,R Ladies,R-Ladies Columbus,653,3,36,Active
+North America,R Ladies,R-Ladies Dallas,53,2,2,Inactive
+North America,R Ladies,R-Ladies Denver,68,4,4,Inactive
+North America,R Ladies,R-Ladies Des Moines,649,3,45,Inactive
+North America,R Ladies,R-Ladies East Lansing,111,2,0,Inactive
+North America,R Ladies,R-Ladies El Paso,760,4,36,Inactive
+North America,R Ladies,R-Ladies Fayetteville,83,3,2,Active
+North America,R Ladies,R-Ladies Highland Park,1286,5,40,Active
+North America,R Ladies,R-Ladies Honolulu,315,2,33,Inactive
+North America,R Ladies,R-Ladies Houston,332,3,17,Inactive
+North America,R Ladies,R-Ladies Iowa City,3,1,0,Inactive
+North America,R Ladies,R-Ladies Irvine,141,2,11,Active
+North America,R Ladies,R-Ladies Kansas City,81,3,8,Active
+North America,R Ladies,R-Ladies Kingston,302,4,6,Inactive
+North America,R Ladies,R-Ladies Lexington Park,955,5,65,Active
+North America,R Ladies,"R-Ladies London, Ontario",523,5,18,Inactive
+North America,R Ladies,R-Ladies Los Angeles,138,5,7,Inactive
+North America,R Ladies,R-Ladies Miami,273,6,22,Active
+North America,R Ladies,R-Ladies Mid-Mo,67,4,4,Inactive
+North America,R Ladies,R-Ladies Montreal,136,6,16,Inactive
+North America,R Ladies,R-Ladies Nashville,1123,2,31,Active
+North America,R Ladies,R-Ladies New Orleans,37,2,2,Inactive
+North America,R Ladies,R-Ladies New York,2561,5,123,Active
+North America,R Ladies,R-Ladies Orlando,1165,5,29,Active
+North America,R Ladies,R-Ladies Ottawa,423,2,18,Inactive
+North America,R Ladies,R-Ladies Oxford MS,1888,7,73,Active
+North America,R Ladies,R-Ladies Oxford Ohio,78,3,4,Inactive
+North America,R Ladies,R-Ladies Pasadena,2529,9,78,Active
+North America,R Ladies,R-Ladies PDX,983,6,43,Inactive
+North America,R Ladies,R-Ladies Philly,29,4,1,Inactive
+North America,R Ladies,R-Ladies Remote,16,2,0,Inactive
+North America,R Ladies,R-Ladies Riverside,28,4,4,Inactive
+North America,R Ladies,R-Ladies RTP,14,2,0,Inactive
+North America,R Ladies,R-Ladies San Diego,583,4,60,Active
+North America,R Ladies,R-Ladies Santa Barbara,228,5,6,Inactive
+North America,R Ladies,R-Ladies Seattle,653,5,6,Inactive
+North America,R Ladies,R-Ladies St. Louis,464,3,28,Inactive
+North America,R Ladies,R-Ladies Syracuse,863,6,38,Active
+North America,R Ladies,R-Ladies Tampa,1350,14,46,Inactive
+North America,R Ladies,R-Ladies Tijuana,444,3,48,Active
+North America,R Ladies,R-Ladies Toronto,269,2,80,Inactive
+North America,R Ladies,R-Ladies Twin Cities,28,3,4,Inactive
+North America,R Ladies,R-Ladies Vancouver,8,3,0,Inactive
+North America,R Ladies,R-Ladies Waltham,61,3,4,Inactive
+North America,R Ladies,R-Ladies Washington D.C.,953,5,49,Inactive
+North America,R Ladies,R-Ladies West Lafayette,124,4,5,Inactive
+North America,R Ladies,R-Ladies Monterrey,370,3,8,Inactive
+North America,R Ladies,R-Ladies Ciudad Obregón,2,3,0,Inactive
+North America,R Ladies,R-Ladies Aguascalientes,343,7,5,Inactive
+North America,R Ladies,R-Ladies Guadalajara,1292,5,13,Active
+North America,R Ladies,R-Ladies Queretaro,844,6,18,Active
+North America,R Ladies,R-Ladies Morelia,98,3,2,Active
+North America,R Ladies,R-Ladies Pachuca,24,2,0,Inactive
+North America,R Ladies,R-Ladies CDMX,2272,5,26,Inactive
+North America,R Ladies,R-Ladies Cuernavaca,856,6,19,Active
+North America,R Ladies,R-Ladies Puebla,2418,3,14,Active
+North America,R Ladies,R-Ladies Villahermosa,21,2,0,Inactive
+North America,R Ladies,R-Ladies Comitán,173,5,3,Active
+North America,R Ladies,R-Ladies Xalapa,508,2,25,Active
+Africa,R Ladies,R-Ladies Rabat,121,3,1,Active
+Africa,R Ladies,R-Ladies Algiers,292,4,3,Inactive
+Africa,R Ladies,R-Ladies Tunis,1073,3,50,Active
+Africa,R Ladies,R-Ladies Al-Khartum,67,2,0,Inactive
+Africa,R Ladies,R-Ladies Addis Ababa,586,3,26,Inactive
+Africa,R Ladies,R-Ladies Abuja,715,5,14,Active
+Africa,R Ladies,R-Ladies Cotonou,41,4,3,Inactive
+Africa,R Ladies,R-Ladies Lagos,483,2,5,Active
+Africa,R Ladies,R-Ladies Yaoundé,70,1,0,Inactive
+Africa,R Ladies,R-Ladies Nairobi,1281,2,17,Active
+Africa,R Ladies,R-Ladies Gaborone,442,3,11,Active
+Africa,R Ladies,R-Ladies Johannesburg,1075,3,39,Active
+Africa,R Ladies,R-Ladies Cape Town,714,4,30,Inactive
